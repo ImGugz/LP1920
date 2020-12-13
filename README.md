@@ -1,7 +1,5 @@
-# PalavrasCruzadas
-Projeto LP 2019/2020 - IST
+# LP1920
 
-
-Feito por: Gustavo Aguiar
-
-O projeto da disciplina Lógica para Programação do 2º semestre do ano 2019/2020, que visa escrever um programa em PROLOG com a finalidade de resolver puzzles de palavras cruzadas. 
+## Context
+Project assigned from LP (Logic Programming) in the second semester of 2019/2020 (IST).\
+Its goal is to write a PROLOG program to solve crossword puzzles. 
